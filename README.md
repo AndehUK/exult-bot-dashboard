@@ -1,28 +1,76 @@
-# Create T3 App
+<p align="center">
+	<picture>
+  	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndehUK/exult-bot-dashboard/master/public/logo-dark.png">
+  	<img src="https://raw.githubusercontent.com/AndehUK/exult-bot-dashboard/master/public/logo.png" width="130" alt="Logo for Exult">
+	</picture>
+</p>
 
-This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
+<h1 align="center">
+	Exult Bot Dashboard
+</h1>
 
-## What's next? How do I make an app with this?
+<p align="center">
+  An "In-Development" Web Dashboard for the Discord Bot: Exult Bot built using 
+  <a rel="noopener noreferrer" href="https://create.t3.gg/" target="_blank">
+    Create T3 App
+  </a>.
+</p>
 
-We try to keep this project as simple as possible, so you can start with just the scaffolding we set up for you, and add additional things later when they become necessary.
+<p align="center">
+  Visit the 
+  <a rel="noopener noreferrer" href="https://bot.exultsoftware.com" target="_blank">
+    Exult Bot Dashboard
+  </a>
+  now or
+  <a rel="noopener noreferrer" href="https://bot.exultsoftware.com/invite" target="_blank">
+    Invite the Discord Bot
+  </a>!
+</p>
 
-If you are not familiar with the different technologies used in this project, please refer to the respective docs. If you still are in the wind, please join our [Discord](https://t3.gg/discord) and ask for help.
+## Table of Contents
 
-- [Next.js](https://nextjs.org)
-- [NextAuth.js](https://next-auth.js.org)
-- [Prisma](https://prisma.io)
-- [Tailwind CSS](https://tailwindcss.com)
-- [tRPC](https://trpc.io)
+- <a href="#about">About the Project</a>
+- <a href="#how-to-contribute">How to Contribute</a>
+- <a href="#active-contributors">Active Contributors</a>
 
-## Learn More
+<h2 id="about">About the Project</h2>
 
-To learn more about the [T3 Stack](https://create.t3.gg/), take a look at the following resources:
+The **Exult Bot Dashboard** is a full-stack web application built using the T3 Stack (see full list of main technologies below) that provides a web-based UI to **Exult Bot** users. Whilst incorporating a Discord-based UI to the bot is one of the main "focuses" of the bot, we want to provide as much accessibility as possible to all of our users.
 
-- [Documentation](https://create.t3.gg/)
-- [Learn the T3 Stack](https://create.t3.gg/en/faq#what-learning-resources-are-currently-available) — Check out these awesome tutorials
+<h2 id="technologies">Technologies used in the Project</h2>
 
-You can check out the [create-t3-app GitHub repository](https://github.com/t3-oss/create-t3-app) — your feedback and contributions are welcome!
+- <a rel="noopener noreferrer" target="_blank" href="https://nextjs.org/docs">Next.JS (App Router)</a>
+- <a rel="noopener noreferrer" target="_blank" href="https://trpc.io/">tRPC</a>
+- <a rel="noopener noreferrer" target="_blank" href="https://www.prisma.io/docs">Prisma</a>
+- <a rel="noopener noreferrer" target="_blank" href="https://next-auth.js.org/">NextAuth.js</a>
+- <a rel="noopener noreferrer" target="_blank" href="https://tailwindcss.com/docs/editor-setup">TailwindCSS</a>
 
-## How do I deploy this?
+<h2 id="how-to-contribute">How to Contribute</h2>
 
-Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
+You can find a full contributing guide
+<a href="https://github.com/AndehUK/exult-bot-dashboard/CONTRIBUTING.md">
+here
+</a>
+
+<h2 id="active-contributors">Active Contributors</h2>
+
+As nice as it is to have anyone contribute towards a project, please read through the <a href="https://github.com/AndehUK/exult-bot-dashboard/CONTRIBUTING.md">Contributing Guidelines</a> before opening an issue or PR so that you fully understand what is expected with anything and everything relating to this project. You are also welcome to join our <a rel="noopener noreferrer" target="_blank" href="https://bot.exultsoftware.com/discord">Discord Server</a> for support or contributing guidance.
+
+<a href="https://github.com/AndehUK/exult-bot-dashboard/graphs/contributors">
+	<p align="center">
+  	<img src="https://contrib.rocks/image?repo=AndehUK/exult-bot-dashboard" />
+	</p>	
+</a>
+
+<p align="center">
+	Made with 
+	<a href="https://contrib.rocks">
+		contrib.rocks
+	</a>.
+</p>
+
+<p align="center">Content inspired by the repository for 
+  <a rel="noopener noreferrer" href="https://github.com/t3-oss/create-t3-app/blob/next/cli/README.md" target="_blank">
+    Create T3 App
+  </a>! ❤️
+</p>
