@@ -48,13 +48,13 @@ The **Exult Bot Dashboard** is a full-stack web application built using the T3 S
 <h2 id="how-to-contribute">How to Contribute</h2>
 
 You can find a full contributing guide
-<a href="https://github.com/AndehUK/exult-bot-dashboard/CONTRIBUTING.md">
+<a href="https://github.com/AndehUK/exult-bot-dashboard/blob/master/CONTRIBUTING.md">
 here
 </a>
 
 <h2 id="active-contributors">Active Contributors</h2>
 
-As nice as it is to have anyone contribute towards a project, please read through the <a href="https://github.com/AndehUK/exult-bot-dashboard/CONTRIBUTING.md">Contributing Guidelines</a> before opening an issue or PR so that you fully understand what is expected with anything and everything relating to this project. You are also welcome to join our <a rel="noopener noreferrer" target="_blank" href="https://bot.exultsoftware.com/discord">Discord Server</a> for support or contributing guidance.
+As nice as it is to have anyone contribute towards a project, please read through the <a href="https://github.com/AndehUK/exult-bot-dashboard/blob/master/CONTRIBUTING.md">Contributing Guidelines</a> before opening an issue or PR so that you fully understand what is expected with anything and everything relating to this project. You are also welcome to join our <a rel="noopener noreferrer" target="_blank" href="https://bot.exultsoftware.com/discord">Discord Server</a> for support or contributing guidance.
 
 <a href="https://github.com/AndehUK/exult-bot-dashboard/graphs/contributors">
 	<p align="center">
