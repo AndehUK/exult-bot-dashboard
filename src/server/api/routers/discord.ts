@@ -16,6 +16,7 @@ export const discordRouter = createTRPCRouter({
     .query(async ({ ctx, input }) => {
       return "andehx.";
 
+      /*
       const user = await ctx.db.user.findUnique({
         where: { id: input.id },
         include: { accounts: true },
@@ -38,5 +39,6 @@ export const discordRouter = createTRPCRouter({
       } catch (error) {
         return "ID didn't work";
       }
+      */
     }),
 });
