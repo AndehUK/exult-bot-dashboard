@@ -1,7 +1,12 @@
+import { LandingNavbar } from "./_components/navbar";
+
 const LandingLayout = ({ children }: { children: React.ReactNode }) => {
   return (
-    <main className="h-full overflow-auto">
-      <div className="mx-auto h-full w-full max-w-screen-xl">{children}</div>
+    <main className="h-full">
+      <div className="mx-auto h-full w-full max-w-screen-xl">
+        <LandingNavbar />
+        {children}
+      </div>
     </main>
   );
 };

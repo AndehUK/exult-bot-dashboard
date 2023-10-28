@@ -16,6 +16,9 @@ module.exports = {
       },
     },
     extend: {
+      screens: {
+        nav: "840px",
+      },
       colors: {
         border: "hsla(var(--border))",
         input: "hsla(var(--input))",
